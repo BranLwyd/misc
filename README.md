@@ -11,13 +11,13 @@ Invisibility (Air 19): `259`
 Poison Cloud (Earth 3): `1`  
 Poison Bolt (Earth 7): `19`  
 Fireburst (Fire 2): `7`  
-Ice Shards (Ice 3): `13`
+Ice Shards (Ice 3): `13`  
 
 Potions
 -------
-Healing: 1 flask, 1 tar bead
-Energy: 1 flask, 1 blooddrop
-Antivenom: 1 flask, 1 cave nettle
+Healing: 1 flask, 1 tar bead  
+Energy: 1 flask, 1 blooddrop  
+Antivenom: 1 flask, 1 cave nettle  
 
 Other
 -----
