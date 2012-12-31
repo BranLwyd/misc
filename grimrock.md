@@ -11,6 +11,7 @@ Invisibility (Air 19): `259`
 Poison Cloud (Earth 3): `1`  
 Poison Bolt (Earth 7): `19`  
 Fireburst (Fire 2): `7`  
+Fire Shield (Fire 16): `57`  
 Ice Shards (Ice 3): `13`  
 Frostbolt (Ice 13): `39`  
 
