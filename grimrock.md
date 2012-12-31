@@ -12,6 +12,8 @@ Poison Cloud (Earth 3): `1`
 Poison Bolt (Earth 7): `19`  
 Fireburst (Fire 2): `7`  
 Ice Shards (Ice 3): `13`  
+Frostbolt (Ice 13): `39`  
+
 
 Potions
 -------
