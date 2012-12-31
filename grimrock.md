@@ -7,6 +7,7 @@ Spells
 Spells are specified as a set of numbers; the position of the numbers on a numeric keypad matches up with the position of the runes (e.g. 1 = bottom left rune, 5 = center rune, etc).
 
 Light (Spellcraft 5): `58`  
+Darkness (Spellcraft 5): `25`  
 Shock (Air 4): `9`  
 Invisibility (Air 19): `259`  
 Poison Cloud (Earth 3): `1`  
